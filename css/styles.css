@@ -56,7 +56,7 @@ body {
 .link:focus,
 .link:hover {
   color: var(--brand-color);
-}
+} /* Cand stilizezti Logo elimina bucata asta, singurul ei rol este WEBSTUDIO */
 .link-contact {
   font-weight: 500;
   font-size: 14px;
